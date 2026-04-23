@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Tarta de Zanahoria", "description": "Extra esponjosa y húmeda, preparada con el tradicional y cremoso frosting de la casa.", "price": "$4.00/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 2, "name": "Cheesecake Frutos Rojos", "description": "Denso y cremoso estilo New York. Bañado completamente con mermelada casera.", "price": "$4.50/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 3, "name": "Bomba Volcánica", "description": "Soufflé intenso oscuro de interior completamente líquido. Sale tibio.", "price": "$5.00/porción", "img": "/assets/images/tortas/torta.jpg"   },
+  { "id": 4, "name": "Pie de Limón", "description": "Firme base crujiente, suave crema amarga de limones y merengue suizo artesanal escalfado al fuego.", "price": "$4.00/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 5, "name": "Red Velvet", "description": "Torta rojiza sumamente icónica por su textura de \"terciopelo\" e inconfundible crema a base de mascarpone.", "price": "$4.50/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 6, "name": "Tarta Ópera Clasicc", "description": "Postre francés compuesto de complejas capas de bizcocho Joconde untado en café, con ganache amargo.", "price": "$5.50/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 7, "name": "Chocotorta Clásica", "description": "Postre emblemático. Combinación intercalada de galletas de chocolate humedecidas en café y dulce sublime.", "price": "$4.00/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 8, "name": "Black Forest", "description": "Esponjoso de cacao untado en licor de cerezas con generosa crema batida espesa.", "price": "$4.80/porción", "img": "/assets/images/tortas/torta.jpg" },
+  { "id": 9, "name": "Mousse de Maracuyá", "description": "Balance entre el ácido estimulante frutal y el dulce montado sobre fina galleta de mantequilla.", "price": "$4.50/porción", "img": "/assets/images/tortas/torta.jpg" }
+]

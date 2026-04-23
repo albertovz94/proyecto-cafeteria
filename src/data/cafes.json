@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Espresso Intenso", "description": "Shot concentrado de nuestro café tostado especial originario de fincas locales.", "price": "$2.50", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 2, "name": "Cappuccino Clásico", "description": "Espresso con leche vaporizada y una rica capa de espuma finamente texturizada.", "price": "$3.50", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 3, "name": "Latte Vainilla", "description": "Más suave, cremoso y con un toque aromático diferencial de vainilla natural.", "price": "$4.00", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 4, "name": "Mocha Artesanal", "description": "Café orgánico combinado con chocolate belga y coronado por crema batida.", "price": "$4.50", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 5, "name": "Cold Brew Reserva", "description": "Infusionado en frío por 24 horas continuas para un sabor totalmente sin acidez.", "price": "$3.80", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 6, "name": "Flat White Origin", "description": "Doble ristretto con leche micro-texturizada. Perfecto para paladares puristas.", "price": "$3.90", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 7, "name": "Americano Premium", "description": "Un filtrado cristalino donde predominan sutiles notas cítricas y caramelo tostado.", "price": "$2.80", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 8, "name": "Macchiato Corto", "description": "Una base pura de espresso intensa manchada muy sutilmente de leche micro texturizada.", "price": "$3.00", "img": "/assets/images/cafes/cafe.avif" },
+  { "id": 9, "name": "Affogato Vainilla", "description": "Helado artesanal de vainilla ahogado en nuestra extracción concentrada de espresso.", "price": "$5.00", "img": "/assets/images/cafes/cafe.avif" }
+]

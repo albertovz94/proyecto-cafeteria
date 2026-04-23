@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Macarons Surtidos", "description": "Cajita de 6 unidades en sabores de temporada (Pistacho, Frambuesa, Limón, Chocolate).", "price": "$5.50", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 2, "name": "Brownie Melty", "description": "Bizcofino muy húmedo de puro cacao y crujientes nueces tostadas.", "price": "$3.00", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 3, "name": "Cookies Chips", "description": "Galletón gigante estilo NY, esponjoso, relleno de densos chips de chocolate.", "price": "$2.50", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 4, "name": "Alfajores de Maicena", "description": "Clásica masa sableé de maicena que se deshace, relleno de abundante dulce de leche.", "price": "$2.80", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 5, "name": "Croissant Almendras", "description": "Hojaldre tipo francés laminado en mantequilla, con exquisita crema de almendras horneada.", "price": "$3.50", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 6, "name": "Cinnamon Roll", "description": "Sensacional y dulce rollo de canela y pasas, horneado y bañado en glaseado tibio de queso crema.", "price": "$3.80", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 7, "name": "Medialuna Francesa", "description": "Hojaldre crujiente por fuera y de interior algodonoso, hecha con verdadera mantequilla.", "price": "$2.00", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 8, "name": "Tarta Frutal Mignon", "description": "Pequeña tartaleta dulce de crema pastelera colmada de coloridos frutos frescos.", "price": "$3.20", "img": "/assets/images/postres/macarron.jpg" },
+  { "id": 9, "name": "Cheesecake Bites", "description": "Cuadros de denso postre de queso coronados con jalea natural de grosellas frescas.", "price": "$2.90", "img": "/assets/images/postres/macarron.jpg" }
+]

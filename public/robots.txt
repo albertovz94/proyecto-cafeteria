@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /imprimir/
+
+# Sitemap
+Sitemap: https://oasiscafe.com/sitemap.xml
